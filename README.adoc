@@ -1,0 +1,73 @@
+= Workshop on OpenShift using Minishift
+
+// Settings:
+:idprefix:
+:idseparator: -
+ifndef::env-github[]
+:icons: font
+endif::[]
+ifdef::env-github,env-browser[]
+:toc: preamble
+:toclevels: 5
+endif::[]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+Brought to you by http://minishift.io[Minishift Team].
+
+== Overview
+```
+TODO
+```
+
+== Prerequisites
+```
+TODO
+```
+
+== Preparation
+```
+TODO
+```
+
+[TIP]
+Short Break
+
+== Kubernetes Basics
+```
+TODO
+```
+
+== OpenShift Basics
+```
+TODO
+```
+
+== Minishift Basics
+```
+TODO
+```
+
+[TIP]
+Short Break
+
+== Deploy an applicaton in OpenShift
+```
+TODO
+```
+
+== Using Minishift effectively
+```
+TODO
+```
+
+[TIP]
+End of Session. Thanks.
