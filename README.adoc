@@ -23,51 +23,39 @@ endif::[]
 
 Brought to you by http://minishift.io[Minishift Team].
 
-== Overview
-```
-TODO
-```
+Workshop Documents: https://devconf-in.readthedocs.io/en/latest/
 
-== Prerequisites
-```
-TODO
-```
 
-== Preparation
-```
-TODO
-```
+== Agenda
+
+- Overview
+- Prerequisites
+- Preparation
 
 [TIP]
 Short Break
 
-== Kubernetes Basics
-```
-TODO
-```
-
-== OpenShift Basics
-```
-TODO
-```
-
-== Minishift Basics
-```
-TODO
-```
+- Kubernetes Basics
+- OpenShift Basics
+- Minishift Basics
 
 [TIP]
 Short Break
 
-== Deploy an applicaton in OpenShift
-```
-TODO
-```
-
-== Using Minishift effectively
-```
-TODO
-```
+- Deploy an applicaton in OpenShift
+- Using Minishift effectively
 
 [TIP]
 End of Session. Thanks.
+
+== Contribute to Documents
+
+We are using http://www.sphinx-doc.org[Sphinx] to generate the documents.
+For Fedora system you can install this as follows:
+
+---
+$ dnf install python2-sphinx
+---
+
+To add the content put it to source directory. To test your content try `make html` which build the content.
+Navigate to `build/html` directory and open `index.html` in the browser.
