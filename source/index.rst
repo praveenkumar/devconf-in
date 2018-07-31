@@ -11,6 +11,8 @@ Welcome to Minishift workshop for Devconf-India-2018's documentation!
     :caption: Contents:
 
     introduction
+    overview
+    prerequisites
 
 
 
