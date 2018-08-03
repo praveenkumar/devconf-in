@@ -13,7 +13,9 @@ Welcome to Minishift workshop for Devconf-India-2018's documentation!
     introduction
     overview
     prerequisites
-
+    installation
+    kubernetes
+    openshift
 
 
 Indices and tables
